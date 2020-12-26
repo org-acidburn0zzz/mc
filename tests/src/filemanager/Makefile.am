@@ -35,7 +35,7 @@ TESTS = \
 
 check_PROGRAMS = $(TESTS)
 
-do_cd_command_SOURCES = \
+cd_to_SOURCES = \
 	cd_to.c
 
 examine_cd_SOURCES = \
